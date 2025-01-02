@@ -14,6 +14,9 @@ This repository contains datasets of Amazon's best sellers by category. The data
 | Headphones and Earphones| FRANCE  | 2024 | [data/headphones_and_earphones_france.csv](https://github.com/Ellimaaac/Amazon-Best-Sellers-Dataset/blob/main/data/Amazon_France_Headphones_and_Earphone_BestSellers_December_2024.csv) | [Amazon Headphones and Earphones FRANCE](https://www.amazon.fr/s?i=electronics&rh=n%3A14054961%2Cp_72%3A4-&s=popularity-rank&language=en_GB&content-id=amzn1.sym.8b0be264-a345-42f3-adfc-d886e7d67899&pd_rd_r=c489746b-d40a-41c8-b8f8-426945a8745d&pd_rd_w=plPap&pd_rd_wg=JJOqK&pf_rd_p=8b0be264-a345-42f3-adfc-d886e7d67899&pf_rd_r=EB29JJ39FK072AS4X8K6&ref=Oct_d_otopr_S) |
 | Computer Monitors       | USA     | 2025 | [data/computer_monitors.usa.csv](https://github.com/Ellimaaac/Amazon-Best-Sellers-Dataset/blob/main/data/Best_Sellers_in_Computer_Monitors.csv) | [Amazon Computer Monitors USA](https://www.amazon.com/Best-Sellers-Electronics-Computer-Monitors/zgbs/electronics/1292115011/ref=zg_bs_nav_electronics_2_541966) |
 | Data Storage | USA | 2025 | [data/data_storage_usa.csv](https://github.com/Ellimaaac/Amazon-Best-Sellers-Datasets/blob/main/data/Best%20Sellers%20in%20Data%20Storage%20USA%202025_01_02.csv) | [Amazon Data Storage USA](https://www.amazon.com/Best-Sellers-Electronics-Data-Storage/zgbs/electronics/1292110011/ref=zg_bs_pg_1_electronics?_encoding=UTF8&pg=1)|
+| Computer Components | USA | 2025 | [data/computer_components_usa.csv](https://github.com/Ellimaaac/Amazon-Best-Sellers-Datasets/blob/main/data/Best%20Sellers%20in%20Computer%20Components%20USA%202024_01_02.csv) | [Amazon Computer Components USA](https://www.amazon.com/Best-Sellers-Electronics-Computer-Components/zgbs/electronics/193870011/ref=zg_bs_pg_1_electronics?_encoding=UTF8&pg=1)|
+
+
 ## Usage
 1. Clone the repository:
    ```bash
